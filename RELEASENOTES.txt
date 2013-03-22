@@ -1,1 +1,44 @@
-RELEASE NOTES TO BE FINISHED
+C++ Portfolio 2013 Release Notes
+
+Platform and Software - Linux Mint (Nadia), gcc/g++ GNU, vim/Eclipse
+
+1.
+A C program which reads two integers N and N then a) sums all the integers between 1 and N b) sums the squares of all the even numbers between 1 and N c) creates a random array of length N of integers and gets the product of all multipes of 5 and 11 in the array and d) using that random array, computes the nth largest number in that array.
+
+2. A program that performs simple addition and subtraction of two user-entered variables.
+
+3. A program which counts the occurence of alphanumeric words in input.
+
+4. A program which uses the sum of series to calculate the arctan of a number whose absolute value is less than one.
+
+5. A program which uses the previous program to calculate PI from the arctan.
+
+6. A program which calculate PI using a much more quickly convergent series.
+
+7. A program which uses C++ style file i/o in order to make a copy of an input file.
+
+8. A program which compares two text files and tells the user whether they are identical or not.
+
+9. A program which displays file contents 20 lines at a time.
+
+10. A program which calculates compound interest.
+
+11. A program which computes the principal amount borrowed given a final amount owed, a rate and a period.
+
+12. A program which capitalizes alphanumeric characters within a given character array.
+
+13. A program which converts from one date format DD-MMM-YYYY to another DD/MM/YY with proper error checking and data checking.
+
+14. A program which calculates the arctan of a double floating point number and takes a precision value into account.
+
+15. A program which implements Newton's method of finding the square root of a given double floating point number.
+
+16. A program which implements Newton's method of finding the nth root of a given double floating point number.
+
+17. A program which flips a character array in place.
+
+18. The Towers of Hanoi problem - a simple recursive algorithm.
+
+19. The Fibonacci sequence - implemented as a recursive algorith with some improvements to avoid memory misuse.
+
+20. The Quick Select algorithm implemented on an array of random integers.
