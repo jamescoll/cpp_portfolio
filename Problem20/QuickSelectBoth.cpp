@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : Problem20.cpp
-// Author      : James Coll
+// Author      : James Coll/Dr Neil Hurley (comments and implementation of algorithm)
 // Version     : Version 1
 // Copyright   : Munnki 2013
 // Description : two implementations of quick select 
