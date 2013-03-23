@@ -12,8 +12,6 @@
 
 using namespace std; 
 
-const int ciBufferSize = 100;
-
 void vStringFlip(char caString[]);
 
 void vStringFlipRecursive(char caString[], int iArraySize, int iPos=0);
@@ -22,7 +20,7 @@ void vStringFlipRecursive(char caString[], int iArraySize, int iPos=0);
 
 int main()
 { 
-	char caString[ciBufferSize] = "The quick brown fox jumped over the lazy hedgehog"; 
+	char caString[] = "The quick brown fox jumped over the lazy hedgehog"; 
         int iStrLen = strlen(caString);
         
 	cout << caString << endl; 
