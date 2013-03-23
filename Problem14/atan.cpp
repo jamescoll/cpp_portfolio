@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : Problem14.cpp
-// Author      : James Coll
+// Author      : James Coll/Dr Neil Hurley (comments and implementation of algorithm for atan)
 // Version     : Version 1
 // Copyright   : Munnki 2013
 // Description : a command line version of the arctangent program
