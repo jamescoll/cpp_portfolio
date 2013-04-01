@@ -2,8 +2,7 @@ C++ Portfolio 2013 Release Notes
 
 Platform and Software - Linux Mint (Nadia), gcc/g++ GNU, vim/Eclipse
 
-1.
-A C program which reads two integers N and N then a) sums all the integers between 1 and N b) sums the squares of all the even numbers between 1 and N c) creates a random array of length N of integers and gets the product of all multipes of 5 and 11 in the array and d) using that random array, computes the nth largest number in that array.
+1. A C program which reads two integers N and N then a) sums all the integers between 1 and N b) sums the squares of all the even numbers between 1 and N c) creates a random array of length N of integers and gets the product of all multipes of 5 and 11 in the array and d) using that random array, computes the nth largest number in that array.
 
 2. A program that performs simple addition and subtraction of two user-entered variables.
 
