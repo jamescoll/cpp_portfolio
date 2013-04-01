@@ -38,7 +38,7 @@ Platform and Software - Linux Mint (Nadia), gcc/g++ GNU, vim/Eclipse
 
 18. The Towers of Hanoi problem - a simple recursive algorithm.
 
-19. The Fibonacci sequence - implemented as a recursive algorith with some improvements to avoid memory misuse.
+19. The Fibonacci sequence - implemented as a recursive algoritm with some improvements to avoid memory misuse.
 
 20a. The Quick Select algorithm implemented on an array of random integers.
 
