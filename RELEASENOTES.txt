@@ -41,4 +41,12 @@ A C program which reads two integers N and N then a) sums all the integers betwe
 
 19. The Fibonacci sequence - implemented as a recursive algorith with some improvements to avoid memory misuse.
 
-20. The Quick Select algorithm implemented on an array of random integers.
+20a. The Quick Select algorithm implemented on an array of random integers.
+
+20b. A program which allows for summing and differencing simple times as structs.
+
+21. A program which performs the same functions as above but passes the output struct as an argument within the functions.
+
+22. A program which provides for basic copy, fill and print functions on a struct containing personal data.
+
+23. A program which uses functions which return reference variables to carry out the above.
