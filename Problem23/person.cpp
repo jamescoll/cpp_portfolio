@@ -3,8 +3,8 @@
 // Author      : James Coll
 // Version     :
 // Copyright   : Munnki
-// Description : A program which updates and copies structs containing basic personal
-// 			information and using pass by reference and the const keyword
+// Description : A  version of the previous program which updates and copies structs containing basic personal
+// 			information and using pass by reference and the const keyword (and which allows for nested calls)
 //============================================================================
 
 #include <iostream>
