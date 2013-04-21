@@ -51,3 +51,5 @@ Platform and Software - Linux Mint (Nadia), gcc/g++ GNU, vim/Eclipse
 23. A program which uses functions which return reference variables to carry out the above and which allows for nested calls.
 
 28 - 30. Two programs which modify a class NumberSet in the following ways i) to add a function which returns the min and max values of the set ii) return the nth largest variable of a given numberset. (29 is redundant - repeated question)
+
+31. A program which adds functionality to a basic String class by implementing functions similar to strcmp, strncmp, strchr, strrchr and strstr.
