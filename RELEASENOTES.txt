@@ -49,3 +49,5 @@ Platform and Software - Linux Mint (Nadia), gcc/g++ GNU, vim/Eclipse
 22. A program which provides for basic copy, fill and print functions on a struct containing personal data.
 
 23. A program which uses functions which return reference variables to carry out the above and which allows for nested calls.
+
+28 - 30. Two programs which modify a class NumberSet in the following ways i) to add a function which returns the min and max values of the set ii) return the nth largest variable of a given numberset. (29 is redundant - repeated question)
