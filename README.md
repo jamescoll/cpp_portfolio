@@ -58,6 +58,6 @@ Platform and Software - Linux Mint (Nadia), gcc/g++ GNU, vim/Eclipse
 
 27. A problem from the Sample Exam which involved histograms.
 
-28 - 30. Two programs which modify a class NumberSet in the following ways i) to add a function which returns the min and max values of the set ii) return the nth largest variable of a given numberset. (29 is redundant - repeated question)
+28. - 30. Two programs which modify a class NumberSet in the following ways i) to add a function which returns the min and max values of the set ii) return the nth largest variable of a given numberset. (29 is redundant - repeated question).
 
 31. A program which adds functionality to a basic String class by implementing functions similar to strcmp, strncmp, strchr, strrchr and strstr.
