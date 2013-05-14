@@ -1,0 +1,63 @@
+C++ Portfolio 2013 Release Notes
+
+Platform and Software - Linux Mint (Nadia), gcc/g++ GNU, vim/Eclipse
+
+1. A C program which reads two integers N and N then a) sums all the integers between 1 and N b) sums the squares of all the even numbers between 1 and N c) creates a random array of length N of integers and gets the product of all multipes of 5 and 11 in the array and d) using that random array, computes the nth largest number in that array.
+
+2. A program that performs simple addition and subtraction of two user-entered variables.
+
+3. A program which counts the occurence of alphanumeric words in input.
+
+4. A program which uses the sum of series to calculate the arctan of a number whose absolute value is less than one.
+
+5. A program which uses the previous program to calculate PI from the arctan.
+
+6. A program which calculate PI using a much more quickly convergent series.
+
+7. A program which uses C++ style file i/o in order to make a copy of an input file.
+
+8. A program which compares two text files and tells the user whether they are identical or not.
+
+9. A program which displays file contents 20 lines at a time.
+
+10. A program which calculates compound interest.
+
+11. A program which computes the principal amount borrowed given a final amount owed, a rate and a period.
+
+12. A program which capitalizes alphanumeric characters within a given character array.
+
+13. A program which converts from one date format DD-MMM-YYYY to another DD/MM/YY with proper error checking and data checking.
+
+14. A program which calculates the arctan of a double floating point number and takes a precision value into account.
+
+15. A program which implements Newton's method of finding the square root of a given double floating point number.
+
+16. A program which implements Newton's method of finding the nth root of a given double floating point number.
+
+17. A program which flips a character array in place.
+
+18. The Towers of Hanoi problem - a simple recursive algorithm.
+
+19. The Fibonacci sequence - implemented as a recursive algoritm with some improvements to avoid memory misuse.
+
+20a. The Quick Select algorithm implemented on an array of random integers.
+
+20b. A program which allows for summing and differencing simple times as structs.
+
+21. A program which performs the same functions as above but passes the output struct as an argument within the functions.
+
+22. A program which provides for basic copy, fill and print functions on a struct containing personal data.
+
+23. A program which uses functions which return reference variables to carry out the above and which allows for nested calls.
+
+24. A modified version of above which allows for a nested call to update fields of the struct.
+
+25. A problem from the Sample Exam which involved factorization.
+
+26. A problem from the Sample Exam which involved solving Sudokus.
+
+27. A problem from the Sample Exam which involved histograms.
+
+28 - 30. Two programs which modify a class NumberSet in the following ways i) to add a function which returns the min and max values of the set ii) return the nth largest variable of a given numberset. (29 is redundant - repeated question)
+
+31. A program which adds functionality to a basic String class by implementing functions similar to strcmp, strncmp, strchr, strrchr and strstr.
