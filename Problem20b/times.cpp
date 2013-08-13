@@ -62,16 +62,16 @@ int main()
 {
     MyTime t1,t2,t3, t4;
     
-    t1.iHours=1; t1.iMinutes=20;t1.iSeconds=30;
-    t2.iHours=2; t2.iMinutes=50;t2.iSeconds=50;
+    t1.iHours=12; t1.iMinutes=0;t1.iSeconds=0;
+    t2.iHours=0; t2.iMinutes=5;t2.iSeconds=0;
     
     addTimes(t1,t2, t3);
-    cout<<"Addition";
+    cout<<"Addition\n";
     cout << t3.iHours << "h:" << t3.iMinutes << "m:"
     << t3.iSeconds << "s" << endl;
     
     subtractTimes(t1,t2,t4);
-    cout<<"Subtraction";
+    cout<<"Subtraction\n";
     cout << t4.iHours << "h:" << t4.iMinutes << "m:"
     << t4.iSeconds << "s" << endl;
 }
